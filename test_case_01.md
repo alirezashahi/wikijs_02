@@ -1,7 +1,7 @@
 ---
 title: My Page Title
 description: A brief description
-published: false
+IsPublished: false
 date: 2026-06-30T09:06:40.999Z
 tags: unverfied, test, true
 editor: markdown

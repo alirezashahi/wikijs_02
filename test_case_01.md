@@ -1,10 +1,11 @@
 ---
 title: My Page Title
 description: A brief description
-tage : unverified
-published: false
-date: 2026-06-29
-author: Alireza
+published: true
+date: 2026-06-30T07:52:45.906Z
+tags: 
+editor: markdown
+dateCreated: 2026-06-30T07:50:25.621Z
 ---
 
 # Page content starts here...

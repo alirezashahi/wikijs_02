@@ -1,7 +1,7 @@
 ---
 title: My Page Title
 description: A brief description
-published: false
+isPublished: false
 date: 2026-06-30T07:52:45.906Z
 tags: 
 editor: Ali

@@ -1,7 +1,7 @@
 ---
 title: teest_case_false
 description: A brief description
-isPublished: flse
+isPublished: false
 date: 2026-06-30T09:06:40.999Z
 tags: unverfied, test, true
 editor: markdown

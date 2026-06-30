@@ -38,20 +38,6 @@ dateCreated: 2026-06-29T12:59:07.233Z
 - **Data spedizione:** 24/07/2019 00:00
 - **Prodotto:** ESYM 1350 M3 (nr. ESYM 1350 M3
 
-## Descrizione e Soluzioni
-
-### Descrizione
-
-KIT FINECORSA MECCANICO
-AE00000184 - ESYM 1350 M3 - mantis 23601 - 10L0627392A
-ordine nr RAA20026456
-
-### Soluzione Interna
-
-Ferrari assieme a Regonesi hanno montato la modifica e adesso il satinatore è ok
-è stato corretto il senso di rotazione e messo a favore di avanzamento
-
-## Note e Allegati
 
 ### Nota: (senza titolo)
 

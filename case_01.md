@@ -57,6 +57,3 @@ Ferrari assieme a Regonesi hanno montato la modifica e adesso il satinatore è o
 
 - **Data:** 08/10/2020 09:15
 
-<div data-wrapper="true" style="font-size:14px;font-family:'Segoe UI','Helvetica Neue',sans-serif;">
-<div>allegata conferma ordine che ho ricevuto da Daniela Pinton di Warranty</div>
-</div>
